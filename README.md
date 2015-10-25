@@ -1,7 +1,7 @@
 # Quoffee
 Coffee queue app that tells the user when their coffee is ready!
 
-Users will be able to order coffee by type, see who's next, get push notifications when it's ready (maybe even a text) and maybe even just casually chat about coffee and their day so far!
+Users will be able to order coffee by type, see who's next, get push notifications when it's ready (perhaps a text) and maybe even casually chat about coffee, and their day so far!
 
 Just clone the repo, run `npm install` and `bower install` to make sure all dependencies are up to date... Then run `ionic serve` to play around with it. Or better yet, download <a href="http://lab.ionic.io" target="_blank">Ionic Lab</a> to easily and visually edit, build, test, and deploy the app!
 
