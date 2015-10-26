@@ -1,2 +1,6 @@
-angular.module('starter.services', []);
+angular.module('starter.services', [])
+
+.factory('Users', function(){
+
+})
 
