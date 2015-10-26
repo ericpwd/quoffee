@@ -1,6 +1,6 @@
 angular.module('quoffee.services', [])
 
-.factory('Users', function(){
+.factory('Users', function($firebaseAuth, $firebaseObject, $firebaseArray){
 
 });
 
