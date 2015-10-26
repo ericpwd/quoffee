@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('quoffee.controllers', [])
 
 .controller('CupCtrl', function($scope) {})
 

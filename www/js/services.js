@@ -1,6 +1,6 @@
-angular.module('starter.services', [])
+angular.module('quoffee.services', [])
 
 .factory('Users', function(){
 
-})
+});
 
