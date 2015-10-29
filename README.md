@@ -1,5 +1,5 @@
 # Quoffee
-Coffee queue app for offices that tells employees when their coffee is ready!
+A Coffee queue app for offices that tells employees when their coffee is ready!
 
 Users will be able to order coffee by type, see who's next, get push notifications when it's ready (perhaps a text) and maybe even casually chat about coffee, and their day so far!
 
